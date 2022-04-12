@@ -1,10 +1,10 @@
 ### Hi folks!
 
-💬 I am a **Doctor of Philosphy** (PhD) student, focussing on **Computer Vision** and **Deep Learning**, at [**SketchX Lab**](www.sketchx.ai), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK) with a fully-funded iFlyTek-Surrey joint scholarship. My supervisors are [**Prof. Yi-Zhe Song (SonG)**](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and [**Prof. Tao Xiang (Tony)**](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
+💬 I am a **Doctor of Philosophy** (PhD) student, focusing on **Computer Vision** and **Deep Learning**, at [**SketchX Lab**](www.sketchx.ai), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK) with a fully-funded iFlyTek-Surrey joint scholarship. My supervisors are [**Prof. Yi-Zhe Song (SonG)**](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and [**Prof. Tao Xiang (Tony)**](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
 
-💬 Before staring my PhD, I worked as a Image Processing & Deep Learning Engineer at [**The MathWorks**](www.mathworks.com), Hyderabad, India, specializing on Digital Image Processing, Pattern Recognition, Multi & Hyperspectral imaging, Deep Learning, and Medical Image Analysis. Prior to that, I worked as a Graduate Engineer Trainee at [**Johnson Controls**](www.johnsoncontrol.com), Mumbai, India.. 
+💬 Before starting my PhD, I worked as an Image Processing & Deep Learning Engineer at [**The MathWorks**](www.mathworks.com), Hyderabad, India, specializing in Digital Image Processing, Pattern Recognition, Multi & Hyperspectral imaging, Deep Learning, and Medical Image Analysis. Prior to that, I worked as a Graduate Engineer Trainee at [**Johnson Controls**](www.johnsoncontrol.com), Mumbai, India.
 
-💬 In 2018, I completed my B.Tech (Bachelor of Technology) from the West Benagl University of Technology, Kolkata, India, majoring in Electronics and Communication Engineering. 
+💬 In 2018, I completed my B.Tech (Bachelor of Technology) from the West Bengal University of Technology, Kolkata, India, majoring in Electronics and Communication Engineering. 
 
 💬 **DBLP Profile**: https://dblp.org/pid/286/4893.html
 
