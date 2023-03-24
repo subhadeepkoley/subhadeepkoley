@@ -14,10 +14,10 @@
 
 💬 **Reviewer**: EURASIP Journal on Image and Video Processing, Expert Systems with Applications, Future Generation Computer Systems, Signal Processing.
 
-⚡ **Top Venue Publications**: 2 X CVPR
+⚡ **Top Venue Publications**: 8 X CVPR
 
 ✉ subhadeepkoley@gmail.com ✉ s.koley@surrey.ac.uk
 
 🔭 For more details, please visit my homepage: https://subhadeepkoley.github.io/ ☑
 
-⚡ Recent ⚡ ☲ Two papers got accepted in 𝗖𝗩𝗣𝗥-𝟮𝟬𝟮𝟮.
+⚡ Recent ⚡ ☲ Six papers got accepted in 𝗖𝗩𝗣𝗥-2023.
