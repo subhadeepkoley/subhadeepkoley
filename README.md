@@ -12,7 +12,7 @@
 
 💬 **Google Scholar**: https://shorturl.at/quxT6
 
-💬 **Reviewer**: EURASIP Journal on Image and Video Processing, Expert Systems with Applications, Future Generation Computer Systems, Signal Processing.
+💬 **Reviewer**: EURASIP Journal on Image and Video Processing, Expert Systems with Applications, Future Generation Computer Systems, Signal Processing, Information Sciences, The Imaging Science Journal, Frontiers in Computer Science, Cybernetics and Systems, IEEE Transactions on Pattern Analysis and Machine Intelligence, CVPR, ICCV.
 
 ⚡ **Top Venue Publications**: 8 X CVPR
 
