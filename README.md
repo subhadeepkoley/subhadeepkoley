@@ -14,10 +14,10 @@
 
 💬 **Reviewer**: EURASIP Journal on Image and Video Processing, Expert Systems with Applications, Future Generation Computer Systems, Signal Processing, Information Sciences, The Imaging Science Journal, Frontiers in Computer Science, Cybernetics and Systems, IEEE Transactions on Pattern Analysis and Machine Intelligence, CVPR, ICCV.
 
-⚡ **Top Venue Publications**: 8 X CVPR
+⚡ **Top Venue Publications**: 8 X CVPR, 1 X ICCV
 
 ✉ subhadeepkoley@gmail.com ✉ s.koley@surrey.ac.uk
 
 🔭 For more details, please visit my homepage: https://subhadeepkoley.github.io/ ☑
 
-⚡ Recent ⚡ ☲ Six papers got accepted in 𝗖𝗩𝗣𝗥-2023.
+⚡ Recent ⚡ ☲ One paper got accepted in ICCV 2023.
