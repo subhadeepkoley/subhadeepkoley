@@ -18,8 +18,8 @@
 [![Static Badge](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github)](https://github.com/subhadeepkoley) 
 [![Static Badge](https://img.shields.io/badge/Google%20Scholar-white?style=plastic&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=-mOrpz8AAAAJ&view_op=list_works&sortby=pubdate&inst=15262737669262836719) 
 [![Static Badge](https://img.shields.io/badge/ORCiD-white?style=plastic&logo=orcid)](https://orcid.org/0000-0002-4010-4387)
-[![Static Badge](https://img.shields.io/badge/DBLP-004F9F?style=plastic&logo=dblp)
-](https://dblp.org/pid/286/4893.html) 
+[![Static Badge](https://img.shields.io/badge/DBLP-004F9F?style=plastic&logo=dblp)](https://dblp.org/pid/286/4893.html) 
+[![Static Badge](https://img.shields.io/badge/CSAuthors-5F9EA0?style=plastic&logo=c)](https://www.csauthors.net/subhadeep-koley/) 
 
 <!-- [![Subhadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhadeepkoley&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&rank_icon=github)](https://github.com/subhadeepkoley) -->
 
