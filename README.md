@@ -2,7 +2,7 @@
 
 ✅ I am a second-year **Doctor of Philosophy (PhD)** candidate, focusing on **Computer Vision** and **Deep Learning**, at [**SketchX Lab**](https://sketchx.eecs.qmul.ac.uk/), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK). My supervisors are [**Prof. Yi-Zhe Song (SonG)**](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and [**Prof. Tao Xiang (Tony)**](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
 
-👨‍💻 Before starting my PhD, I worked as an Image Processing and deep Learning Engineer at [**The MathWorks**](https://www.mathworks.com), specializing in Digital Image Processing, Pattern Recognition, Multi & hyperspectral imaging, Deep Learning, and Medical Image Analysis. Prior to that, I worked as a Graduate Engineer at [**Johnson Controls**](https://www.johnsoncontrols.com).
+👨‍💻 Before starting my PhD, I worked as an Image Processing and Deep Learning Engineer at [**The MathWorks**](https://www.mathworks.com), specializing in Digital Image Processing, Pattern Recognition, Multi & Hyperspectral Imaging, Deep Learning, and Medical Image Analysis. Prior to that, I worked as a Graduate Engineer at [**Johnson Controls**](https://www.johnsoncontrols.com).
 
 👨‍🎓 In 2018, I completed my **Bachelor of Technology (B. Tech)** from the West Bengal University of Technology, Kolkata, India, majoring in Electronics and Communication Engineering (ECE). 
 
