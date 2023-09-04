@@ -1,16 +1,16 @@
 ### 👋 Hi folks!
 
-✅ I am a second-year **Doctor of Philosophy** (PhD) candidate, focusing on **Computer Vision** and **Deep Learning**, at [**SketchX Lab**](www.sketchx.ai), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK) with a fully-funded iFlyTek-Surrey joint scholarship. My supervisors are [**Prof. Yi-Zhe Song (SonG)**](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and [**Prof. Tao Xiang (Tony)**](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
+✅ I am a second-year **Doctor of Philosophy** (PhD) candidate, focusing on **Computer Vision** and **Deep Learning**, at [**SketchX Lab**](www.sketchx.ai), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK). My supervisors are [**Prof. Yi-Zhe Song (SonG)**](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and [**Prof. Tao Xiang (Tony)**](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
 
-👨‍💻 Before starting my PhD, I worked as an Image Processing and deep Learning Engineer at [**The MathWorks**](www.mathworks.com), specializing in Digital Image Processing, Pattern Recognition, Multi and hyperspectral imaging, Deep Learning, and Medical Image Analysis. Prior to that, I worked as a Graduate Engineer at [**Johnson Controls**](www.johnsoncontrol.com).
+👨‍💻 Before starting my PhD, I worked as an Image Processing and deep Learning Engineer at [**The MathWorks**](www.mathworks.com), specializing in Digital Image Processing, Pattern Recognition, Multi & hyperspectral imaging, Deep Learning, and Medical Image Analysis. Prior to that, I worked as a Graduate Engineer at [**Johnson Controls**](www.johnsoncontrol.com).
 
-👨‍🎓 In 2018, I completed my Bachelor of Technology (B. Tech) from the West Bengal University of Technology, Kolkata, India, majoring in Electronics and Communication Engineering. 
+👨‍🎓 In 2018, I completed my Bachelor of Technology (B. Tech) from the West Bengal University of Technology, Kolkata, India, majoring in Electronics and Communication Engineering (ECE). 
 
-⚡ **Top Venue Publications:** 8 X **CVPR**, 1 X **ICCV**
+⚡ **Top-Venue Publications:** 8 X **CVPR**, 1 X **ICCV**.
 
 📣 **Recent Updates:** One paper got accepted in **ICCV 2023**!
 
-[![Static Badge](https://img.shields.io/badge/eMail-0078D4?style=plastic&logo=microsoftoutlook)](mailto:s.koley@surrey.ac.uk)
+[![Static Badge](https://img.shields.io/badge/Email-0078D4?style=plastic&logo=microsoftoutlook)](mailto:s.koley@surrey.ac.uk)
 [![Static Badge](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail)](mailto:subhadeepkoley@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Homepage-222222?style=plastic&logo=githubpages)](https://subhadeepkoley.github.io/)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/subhadeepkoley/)
@@ -21,7 +21,12 @@
 [![Static Badge](https://img.shields.io/badge/DBLP-004F9F?style=plastic&logo=dblp)
 ](https://dblp.org/pid/286/4893.html) 
 
-[![Subhadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhadeepkoley&show_icons=true&theme=transparent&hide=prs,issues,contribs&rank_icon=github)](https://github.com/subhadeepkoley)
+<!-- [![Subhadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhadeepkoley&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&rank_icon=github)](https://github.com/subhadeepkoley) -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark) -->
+
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadeepkoley&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&rank_icon=github" alt="Subhadeep's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" alt="Subhadeep's top langs" /></a> |
+| ------------- | ------------- |
 
 📝 **Reviewer**: 
 * EURASIP Journal on Image and Video Processing
