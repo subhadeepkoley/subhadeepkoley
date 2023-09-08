@@ -14,16 +14,16 @@ ___
 
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/Email-0078D4?style=plastic&logo=microsoftoutlook)](mailto:s.koley@surrey.ac.uk)
-[![Static Badge](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail)](mailto:subhadeepkoley@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Homepage-222222?style=plastic&logo=githubpages)](https://subhadeepkoley.github.io/)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/subhadeepkoley/)
-[![Static Badge](https://img.shields.io/badge/Twitter-1D9BF0?style=plastic&logo=twitter)](https://twitter.com/subhadeepko)
-[![Static Badge](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github)](https://github.com/subhadeepkoley) 
-[![Static Badge](https://img.shields.io/badge/Google%20Scholar-white?style=plastic&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=-mOrpz8AAAAJ&view_op=list_works&sortby=pubdate&inst=15262737669262836719) 
-[![Static Badge](https://img.shields.io/badge/ORCiD-white?style=plastic&logo=orcid)](https://orcid.org/0000-0002-4010-4387)
-[![Static Badge](https://img.shields.io/badge/DBLP-004F9F?style=plastic&logo=dblp)](https://dblp.org/pid/286/4893.html) 
-[![Static Badge](https://img.shields.io/badge/CSAuthors-5F9EA0?style=plastic&logo=c)](https://www.csauthors.net/subhadeep-koley/) 
+[![Static Badge](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook)](mailto:s.koley@surrey.ac.uk)
+[![Static Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail)](mailto:subhadeepkoley@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Homepage-222222?style=flat&logo=githubpages)](https://subhadeepkoley.github.io/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhadeepkoley/)
+[![Static Badge](https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter)](https://twitter.com/subhadeepko)
+[![Static Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/subhadeepkoley) 
+[![Static Badge](https://img.shields.io/badge/Google%20Scholar-white?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=-mOrpz8AAAAJ) 
+[![Static Badge](https://img.shields.io/badge/ORCiD-white?style=flat&logo=orcid)](https://orcid.org/0000-0002-4010-4387)
+[![Static Badge](https://img.shields.io/badge/DBLP-004F9F?style=flat&logo=dblp)](https://dblp.org/pid/286/4893.html) 
+[![Static Badge](https://img.shields.io/badge/CSAuthors-5F9EA0?style=flat&logo=c)](https://www.csauthors.net/subhadeep-koley/) 
 
 </div>
 
