@@ -12,6 +12,7 @@
 
 ___
 
+<div align="center">
 
 [![Static Badge](https://img.shields.io/badge/Email-0078D4?style=plastic&logo=microsoftoutlook)](mailto:s.koley@surrey.ac.uk)
 [![Static Badge](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail)](mailto:subhadeepkoley@gmail.com)
@@ -24,12 +25,18 @@ ___
 [![Static Badge](https://img.shields.io/badge/DBLP-004F9F?style=plastic&logo=dblp)](https://dblp.org/pid/286/4893.html) 
 [![Static Badge](https://img.shields.io/badge/CSAuthors-5F9EA0?style=plastic&logo=c)](https://www.csauthors.net/subhadeep-koley/) 
 
+</div>
+
 <!-- [![Subhadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhadeepkoley&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&rank_icon=github)](https://github.com/subhadeepkoley) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark) -->
 
+<div align="center">
+
 | <a href="https://github.com/subhadeepkoley"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadeepkoley&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&rank_icon=github" alt="Subhadeep's github stats" /></a> | <a href="https://github.com/subhadeepkoley"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" alt="Subhadeep's top langs" /></a> |
 | ------------- | ------------- |
+
+</div>
 
 ___
 
