@@ -16,7 +16,7 @@ ___
 
 [![Static Badge](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook)](mailto:s.koley@surrey.ac.uk)
 [![Static Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail)](mailto:subhadeepkoley@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Homepage-222222?style=flat&logo=githubpages)](https://subhadeepkoley.github.io/)
+[![Static Badge](https://img.shields.io/badge/Homepage-3EA37A?style=flat&logo=githubpages)](https://subhadeepkoley.github.io/)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhadeepkoley/)
 [![Static Badge](https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter)](https://twitter.com/subhadeepko)
 [![Static Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/subhadeepkoley) 
