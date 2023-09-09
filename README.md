@@ -1,4 +1,4 @@
-# 👋 Hi folks!
+# 👋 Hi there!
 
 ✅ I am a second-year **Doctor of Philosophy (PhD)** candidate, focusing on **Computer Vision** and **Deep Learning**, at [**SketchX Lab**](https://sketchx.eecs.qmul.ac.uk/), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK). My supervisors are [**Prof. Yi-Zhe Song (SonG)**](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and [**Prof. Tao Xiang (Tony)**](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
 
@@ -26,10 +26,6 @@ ___
 [![Static Badge](https://img.shields.io/badge/CSAuthors-5F9EA0?style=flat&logo=c)](https://www.csauthors.net/subhadeep-koley/) 
 
 </div>
-
-<!-- [![Subhadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhadeepkoley&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&rank_icon=github)](https://github.com/subhadeepkoley) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark) -->
 
 <div align="center">
 
