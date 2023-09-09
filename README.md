@@ -1,4 +1,4 @@
-## 👋 Hi folks!
+# 👋 Hi folks!
 
 ✅ I am a second-year **Doctor of Philosophy (PhD)** candidate, focusing on **Computer Vision** and **Deep Learning**, at [**SketchX Lab**](https://sketchx.eecs.qmul.ac.uk/), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK). My supervisors are [**Prof. Yi-Zhe Song (SonG)**](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and [**Prof. Tao Xiang (Tony)**](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
 
@@ -40,7 +40,10 @@ ___
 
 ___
 
-📝 **Reviewer**: 
+📝 **Reviewer**:
+<details>
+  <summary>Journals</summary>
+
 * EURASIP Journal on Image and Video Processing
 * Expert Systems with Applications
 * Future Generation Computer Systems
@@ -52,4 +55,14 @@ ___
 * IEEE Transactions on Pattern Analysis and Machine Intelligence
 * IEEE Transactions on Image Processing
 * IET Computer Vision
-* CVPR, ICCV, BMVC
+
+</details>
+
+<details>
+  <summary>Conferences</summary>
+
+* CVPR
+* ICCV
+* BMVC
+
+</details>
