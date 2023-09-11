@@ -29,7 +29,7 @@ ___
 
 <div align="center">
 
-| <a href="https://github.com/subhadeepkoley"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadeepkoley&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&rank_icon=github" alt="Subhadeep's github stats" /></a> | <a href="https://github.com/subhadeepkoley"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" alt="Subhadeep's top langs" /></a> |
+| <a href="https://github.com/subhadeepkoley"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadeepkoley&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&rank_icon=github" alt="Subhadeep's github stats" /></a> | <a href="https://github.com/subhadeepkoley"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeepkoley&layout=compact&theme=vue-dark" alt="Subhadeep's top langs" /></a> |
 | ------------- | ------------- |
 
 </div>
