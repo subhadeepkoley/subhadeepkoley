@@ -52,6 +52,7 @@ ___
 * IEEE Transactions on Image Processing
 * IET Computer Vision
 * Multimedia Tools & Applications
+* International Journal of Computer Vision
 
 </details>
 
