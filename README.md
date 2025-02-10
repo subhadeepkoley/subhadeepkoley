@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-✅ I am a third-year **Doctor of Philosophy (PhD)** candidate, focusing on **Computer Vision** and **Deep Learning**, at [**SketchX Lab**](https://sketchx.eecs.qmul.ac.uk/), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK). My supervisors are [**Prof. Yi-Zhe Song (SonG)**](https://www.surrey.ac.uk/people/yi-zhe-song) and [**Prof. Tao Xiang (Tony)**](https://www.surrey.ac.uk/people/tao-xiang).
+✅ I am a final-year **Doctor of Philosophy (PhD)** candidate, focusing on **Computer Vision** and **Deep Learning**, at [**SketchX Lab**](https://sketchx.eecs.qmul.ac.uk/), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK). My supervisors are [**Prof. Yi-Zhe Song (SonG)**](https://www.surrey.ac.uk/people/yi-zhe-song) and [**Prof. Tao Xiang (Tony)**](https://www.surrey.ac.uk/people/tao-xiang).
 
 👨‍💻 Before starting my PhD, I worked as a Computer Vision Engineer at [**The MathWorks**](https://www.mathworks.com), specializing in Digital Image Processing, Pattern Recognition, Multi & Hyperspectral Imaging, Deep Learning, and Medical Image Analysis. Prior to that, I worked as a Graduate Engineer at [**Johnson Controls**](https://www.johnsoncontrols.com).
 
