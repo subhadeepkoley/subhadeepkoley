@@ -6,7 +6,7 @@
 
 👨‍🎓 In 2018, I completed my **Bachelor of Technology (B. Tech)** from the West Bengal University of Technology, Kolkata, India, majoring in Electronics and Communication Engineering (ECE). 
 
-⚡ **Top-Venue Publications:** 16 x **CVPR**, 2 x **ECCV**, 1 x **ICCV**.
+⚡ **Top-Venue Publications:** 16 x **CVPR**, 2 x **ECCV**, 2 x **ICCV**.
 
 📢 **Recent Updates:** Two papers got accepted in **CVPR 2025**!
 
