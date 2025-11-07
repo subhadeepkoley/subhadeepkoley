@@ -8,7 +8,7 @@
 
 ⚡ **Top-Venue Publications:** 16 x **CVPR**, 2 x **ECCV**, 2 x **ICCV**.
 
-📢 **Recent Updates:** Two papers got accepted in **CVPR 2025**!
+📢 **Recent Updates:** One papers got accepted in **ICCV 2025**!
 
 ___
 
