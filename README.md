@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-✅ I completed my **Doctor of Philosophy (PhD)** focusing on **Computer Vision** and **Deep Learning**, from [**SketchX Lab**](https://sketchx.eecs.qmul.ac.uk/), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK). My supervisors were [**Prof. Yi-Zhe Song (SonG)**](https://www.surrey.ac.uk/people/yi-zhe-song) and [**Prof. Tao Xiang (Tony)**](https://www.surrey.ac.uk/people/tao-xiang).
+✅ I have completed my **Doctor of Philosophy (PhD)** focusing on **Computer Vision** and **Deep Learning**, from [**SketchX Lab**](https://sketchx.eecs.qmul.ac.uk/), [**Centre for Vision, Speech and Signal Processing (CVSSP)**](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) of the [**University of Surrey**](https://www.surrey.ac.uk/), England, United Kingdom (UK). My supervisors were [**Prof. Yi-Zhe Song (SonG)**](https://www.surrey.ac.uk/people/yi-zhe-song) and [**Prof. Tao Xiang (Tony)**](https://www.surrey.ac.uk/people/tao-xiang).
 
 💻 I currently work as a Senior AI Scientist at [**Medtronic PLC, London**.](https://www.medtronic.com)
 
